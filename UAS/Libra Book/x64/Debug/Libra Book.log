@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\abiyy\OneDrive\Documents\semester 1\Algoritma dan Pemrograman (praktek)\UAS\Libra Book\main.cpp(48,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abiyy\OneDrive\Documents\semester 1\Algoritma dan Pemrograman (praktek)\UAS\Libra Book\main.cpp(62,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abiyy\OneDrive\Documents\semester 1\Algoritma dan Pemrograman (praktek)\UAS\Libra Book\main.cpp(186,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abiyy\OneDrive\Documents\semester 1\Algoritma dan Pemrograman (praktek)\UAS\Libra Book\main.cpp(299,38): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Libra Book.vcxproj -> C:\Users\abiyy\OneDrive\Documents\semester 1\Algoritma dan Pemrograman (praktek)\UAS\x64\Debug\Libra Book.exe
